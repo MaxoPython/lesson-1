@@ -1,1 +1,0 @@
-print("Hello world!",'\n', 2+2,'\n', 10/3)

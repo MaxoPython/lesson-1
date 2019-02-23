@@ -10,4 +10,3 @@ python=22
 result_func=get_summ(learn,python)
 print(result_func)
 format_price("56")
-
